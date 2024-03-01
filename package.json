@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "mineflayer": "^4.20.0",
+    "mineflayer-web-inventory": "^1.8.4",
     "prismarine-viewer": "^1.28.0"
   }
 }
