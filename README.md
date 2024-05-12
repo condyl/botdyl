@@ -1,1 +1,1 @@
-wip learning how to use mineflayer
+lost interest in this project, will likely never come back to it.
